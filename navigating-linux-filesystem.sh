@@ -23,7 +23,7 @@ echo "Files in the current directory: "
 ls
 # Move one level up
 echo "Moving one level up."
-cd
+cd ..
 echo "Current directory: $PWD"
 
 # Remove the new directory and its contents
