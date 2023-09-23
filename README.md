@@ -13,6 +13,9 @@ read name
 echo "Hello, $name! Nice to meet you :)"
 
 ```
+Result from the above script:
+
+![Image_Alt](https://github.com/tochinicky/dareyGit/assets/29289689/974c9ddf-7d2d-4d82-8097-d509a2ebac06)
 
 # Directory Manipulation and Navigation
 
@@ -58,6 +61,9 @@ echo "Files in the current directory:"
 ls
 
 ```
+Result from the above script
+
+![Image_Alt](https://github.com/tochinicky/dareyGit/assets/29289689/eaa31bc4-50a8-4ce7-a33a-30377b89f695)
 
 # File Operation and Sorting
 
@@ -100,6 +106,9 @@ echo "Final sorted file:"
 cat sorted_files_sorted_alphabetically.txt
 
 ```
+Result from the above script:
+
+![Image_Alt](https://github.com/tochinicky/dareyGit/assets/29289689/9c23b469-2e9b-4e18-8664-3e00e88360de)
 
 # Working with Numbers and Calculations
 
@@ -139,6 +148,9 @@ echo "Number 1 raised to the power of 2: $power_of_2"
 echo "Square root of number 2: $square_root"
 
 ```
+Result from the above script:
+
+![Image_Alt](https://github.com/tochinicky/dareyGit/assets/29289689/d6307bfd-2ea4-4083-abc1-ef35fc90a9ae)
 
 # File Backup and Timestamping
 
@@ -166,3 +178,6 @@ cp -r "$source_dir"/* "$backup_dir_with_timestamp"
 echo "Backup completed. Files copied to: $backup_dir_with_timestamp"
 
 ```
+Result from the above script:
+
+![Image_Alt](https://github.com/tochinicky/dareyGit/assets/29289689/801933e4-8fbf-41cc-9b9e-bc0ef67ae299)
