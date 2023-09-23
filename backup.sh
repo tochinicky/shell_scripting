@@ -2,7 +2,7 @@
 
 # Define the source directory and backup directory
 source_dir="/Users/user/shell-scripting" 
-backup_dir="/Users/user/shell-scripting"
+backup_dir="/Users/user/bank-api"
 
 # Create a timestamp with the current date and time
 timestamp=$(date +"%Y%m%d%H%M%S")

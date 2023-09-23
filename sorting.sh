@@ -2,9 +2,12 @@
 
 # Create three files
 echo "Creating files..."
-echo "This is file3." > file3. txt echo "This is file." > filel. txt echo "This is file2." > file2. txt echo "Files created."
+echo "This is file3.txt" > file3.txt echo "This is file." > file1.txt 
+echo "This is file2.txt" > file2.txt 
+echo "Files created."
 # Display the files in their current order
-echo "Files in their current order:" ls
+echo "Files in their current order:" 
+ls
 # Sort the files alphabetically
 echo "Sorting files alphabetically.."
 ls | sort > sorted_files.txt
@@ -16,7 +19,7 @@ cat sorted_files.txt
 
 # Remove the original files
 echo "Removing original files..." 
-rm filel.txt file2.txt file3.txt 
+rm file1.txt file2.txt file3.txt 
 echo "Original files removed."
 
 # Rename the sorted file to a more descriptive name
